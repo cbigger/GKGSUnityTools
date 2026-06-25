@@ -8,6 +8,6 @@ Reverse any animation clip. Select the animation in the project window, and with
 This is a set of three files which enables height and angle-based terrain layer painting. You can open this tool by navigating to **Tools** -> **Terrain Auto Painter**. This will open up the editor window as a new tab beside your inspector.
 This specific tool has its own README.md, and more instructions can be found there.
 
-#### Terrain Auto Detailer
+#### Terrain Detail Auto Painter
 This is a set of three files which enables height and angle-based terrain detail painting. You can open this tool by navigating to **Tools** -> **Terrain Auto Detail Painter**. This will open up the editor window as a new tab beside your inspector.
 This specific tool has its own README.md, and more instructions can be found there.
